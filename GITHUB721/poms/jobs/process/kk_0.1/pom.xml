@@ -9,9 +9,9 @@
     <relativePath>../../../</relativePath>
   </parent>
   <groupId>org.example.github721.job</groupId>
-  <artifactId>hh</artifactId>
+  <artifactId>kk</artifactId>
   <version>0.1.0</version>
-  <name>GITHUB721 hh-0.1.0 (0.1,Job Designs)</name>
+  <name>GITHUB721 kk-0.1.0 (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -19,12 +19,12 @@
     <current.int-resources.dir>${basedir}/src/main/resources</current.int-resources.dir>
     <talend.job.version>0.1</talend.job.version>
     <talend.project.name.lowercase>github721</talend.project.name.lowercase>
-    <talend.job.path>github721/hh_0_1</talend.job.path>
+    <talend.job.path>github721/kk_0_1</talend.job.path>
     <project.distribution-management.repository.id>${project.distributionManagement.repository.id}</project.distribution-management.repository.id>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>GITHUB721</talend.project.name>
     <talend.product.version>7.2.1.20200203_0812-patch</talend.product.version>
-    <talend.job.finalName>hh_0_1</talend.job.finalName>
+    <talend.job.finalName>kk_0_1</talend.job.finalName>
     <talend.pigudf.groupid>org.example.github721.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.github721.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
@@ -33,7 +33,7 @@
     <talend.job.context>Default</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>hh</talend.job.name>
+    <talend.job.name>kk</talend.job.name>
     <talend.job.id>_6ihoEFLgEeqs1oHHfTXNHg</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.folder></talend.job.folder>
