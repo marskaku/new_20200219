@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_x_xP0axkEeqGaZ7lF8Eckg" label="github721futako" description="" language="java" technicalLabel="GITHUB721FUTAKO" creationDate="2020-06-12T12:23:09.000+0800" author="_x_xP0qxkEeqGaZ7lF8Eckg" productVersion="Talend Data Fabric-7.2.1.20190620_1446" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/marskaku/new_20200219.git&quot;,&quot;login&quot;:&quot;kguo@talend.com&quot;,&quot;passwd&quot;:&quot;U74+ih8jTMioy6m2JG8f9HP19CUs0iz09zXomr3UVu/N57mk5eHAqzrggs2KNxBA&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_yIXLIKxkEeqGaZ7lF8Eckg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_x_xP0qxkEeqGaZ7lF8Eckg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
